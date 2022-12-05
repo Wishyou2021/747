@@ -1,6 +1,6 @@
-﻿include <iostream>
-include <cstring>
-include <vector>
+#include <iostream>
+#include <cstring>
+#include <vector>
 using namespace std;
 void printArr(vector<vector<bool>> &matrix);
 
